@@ -218,3 +218,61 @@ figcaption {
     size-adjust: 250px;
     height: 250px;
 }
+
+footer{
+    display: none;
+}
+
+@media(max-width: 750px) {
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .header-text{
+       display: none;
+    }
+
+    .container{
+        height: 1200px;
+        background: linear-gradient( #537686 50%, #344A54 50%);
+    }
+
+    footer{
+        display: flex;
+        height: 400px;
+        background-color: #1a262b;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+
+    .footer-text{
+        border: 1px solid #fdfdfd;
+        padding: 20px;
+    }
+
+    a{
+        display: block;
+        margin-bottom: 20px;
+        font-size: 30px;
+        
+    }
+
+    .div-body{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        height: 1000px;
+    }
+
+    .imgHeader{
+        display: none;
+    }
+
+    input {
+        margin-left: 30px;
+    }
+}
