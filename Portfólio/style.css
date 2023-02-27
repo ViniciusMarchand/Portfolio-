@@ -300,4 +300,14 @@ footer{
         width: 350px;
     }
 
+    .main{
+        width: 200px;
+        height: 200px;
+        margin-bottom: 40px;
+    }
+
+    #projetoText{
+        font-size: 20px;
+    }
+
 }
