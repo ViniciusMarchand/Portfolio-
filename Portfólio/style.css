@@ -148,17 +148,20 @@ a:hover {
     width: 300px;
 
 }
-.container3{
+
+.container3 {
     background-color: #344A54;
     width: 100%;
     height: 100vh;
 }
-#projetoText{
+
+#projetoText {
     color: #fdfdfd;
     text-align: justify;
     font-size: 40px;
 }
-.main{
+
+.main {
     margin: auto;
     width: 500px;
     height: 400px;
@@ -170,6 +173,7 @@ a:hover {
     border-radius: 8px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
+
 .container4 {
     background-color: #344A54;
     width: 100%;
@@ -219,39 +223,39 @@ figcaption {
     height: 200px;
 }
 
-footer{
+footer {
     display: none;
 }
 
 
 
-#gmailImg{
+#gmailImg {
     width: 200px;
 }
 
-#gmail-block{
+#gmail-block {
     width: 250px;
     text-align: center;
 }
 
 @media(max-width: 750px) {
 
-    *{
+    * {
         margin: 0;
         padding: 0;
     }
 
-    .header-text{
-       display: none;
+    .header-text {
+        display: none;
     }
 
-    .container{
+    .container {
         height: 1200px;
 
-        background: linear-gradient( #537686 50%, #344A54 50%);
+        background: linear-gradient(#537686 50%, #344A54 50%);
     }
 
-    footer{
+    footer {
         display: flex;
         height: 400px;
         background-color: #1a262b;
@@ -260,19 +264,19 @@ footer{
 
     }
 
-    .footer-text{
+    .footer-text {
         border: 1px solid #fdfdfd;
         padding: 20px;
     }
 
-    a{
+    a {
         display: block;
         margin-bottom: 20px;
         font-size: 30px;
-        
+
     }
 
-    .div-body{
+    .div-body {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -280,17 +284,17 @@ footer{
         height: 1000px;
     }
 
-    .imgHeader{
+    .imgHeader {
         display: none;
     }
 
-    .container2{
+    .container2 {
         height: 1200px;
-        
+
 
     }
 
-    .content{
+    .content {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -299,38 +303,38 @@ footer{
 
     }
 
-    .aboutMeright{
+    .aboutMeright {
         border-left: none;
         border-top: 1px solid #fdfdfd;
         padding-top: 0;
         margin-top: 50px;
     }
 
-    #VMGHcat{
+    #VMGHcat {
         height: 350px;
         width: 350px;
     }
 
-    .main{
+    .main {
         width: 200px;
         height: 200px;
         margin-bottom: 40px;
     }
 
-    #projetoText{
+    #projetoText {
         font-size: 20px;
     }
 
-    .redes-block{
+    .redes-block {
         display: flex;
         flex-direction: column;
         height: 1200px;
         width: 200px;
     }
 
-    .container4{
+    .container4 {
         height: 1800px;
     }
 
-    
+
 }
