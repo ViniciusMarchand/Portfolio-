@@ -236,7 +236,7 @@ footer{
 
     .container{
         height: 1200px;
-        width: 470px;
+
         background: linear-gradient( #537686 50%, #344A54 50%);
     }
 
@@ -275,7 +275,7 @@ footer{
 
     .container2{
         height: 1200px;
-        width: 100%;
+        
 
     }
 
@@ -285,12 +285,14 @@ footer{
         justify-content: space-around;
         align-items: center;
         height: 1000px;
+
     }
 
     .aboutMeright{
         border-left: none;
         border-top: 1px solid #fdfdfd;
         padding-top: 0;
+        margin-top: 50px;
     }
 
     #VMGHcat{
