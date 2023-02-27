@@ -236,7 +236,7 @@ footer{
 
     .container{
         height: 1200px;
-        width: 100%;
+        width: 470px;
         background: linear-gradient( #537686 50%, #344A54 50%);
     }
 
@@ -291,6 +291,11 @@ footer{
         border-left: none;
         border-top: 1px solid #fdfdfd;
         padding-top: 0;
+    }
+
+    #VMGHcat{
+        height: 350px;
+        width: 350px;
     }
 
 }
