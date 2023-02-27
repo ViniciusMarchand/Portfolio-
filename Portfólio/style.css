@@ -179,8 +179,8 @@ a:hover {
 
 .redes-block {
 
-    width: 1000px;
-    height: 350px;
+    width: 1150px;
+    height: 400px;
     margin: auto;
     display: flex;
     justify-content: space-around;
@@ -195,13 +195,13 @@ a:hover {
 
 .redes {
     height: 250px;
-    width: 250px;
+    width: 200px;
 
 }
 
 #githubImg {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
 }
 
 figcaption {
@@ -210,17 +210,28 @@ figcaption {
 }
 
 #linkedinImg {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
 }
 
 #instaImg {
-    size-adjust: 250px;
-    height: 250px;
+    size-adjust: 200px;
+    height: 200px;
 }
 
 footer{
     display: none;
+}
+
+
+
+#gmailImg{
+    width: 200px;
+}
+
+#gmail-block{
+    width: 250px;
+    text-align: center;
 }
 
 @media(max-width: 750px) {
