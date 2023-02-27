@@ -236,6 +236,7 @@ footer{
 
     .container{
         height: 1200px;
+        width: 100%;
         background: linear-gradient( #537686 50%, #344A54 50%);
     }
 
@@ -272,7 +273,6 @@ footer{
         display: none;
     }
 
-    input {
-        margin-left: 30px;
-    }
+
+
 }
