@@ -310,4 +310,16 @@ footer{
         font-size: 20px;
     }
 
+    .redes-block{
+        display: flex;
+        flex-direction: column;
+        height: 1200px;
+        width: 200px;
+    }
+
+    .container4{
+        height: 1800px;
+    }
+
+    
 }
